@@ -1,1 +1,3 @@
 # Proyecto_S7
+Proyecto de Sprint 7 para familiar el flujo de trabajo con GitHub, Streamlit y VS Code mediante el desarrollo de una aplicación web básica, organizada en una estructura de proyecto profesional.
+Usando Vs Code como base para crear entornos virtuales donde trabajar, instalación de librerías, ejecutar diferentes entornos como python, terminal bash o jupyter para el análisis exploratorio de datos (EDA) clonar repositorios desde github y actualizarlos desde VS Code para getionar iteraciones del proyecto y compartirlo si deseamos, finalmente con streamlit lanzamos/visualizamos nuestra app y comprobamos su correcto funcionamiento antes del lanzamiento oficial.

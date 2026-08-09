@@ -4,7 +4,7 @@ import streamlit as st
 
 # Leer los datos del archivo CSV
 car_data = pd.read_csv(
-    '../data/vehicles_us.csv')
+    './data/vehicles_us.csv')
 
 # Encabezado
 st.header('Visualización gráfica de Anuncios de Venta de Coches')
